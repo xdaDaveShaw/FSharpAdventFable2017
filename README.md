@@ -1,3 +1,9 @@
+From mavnn's FSharp Advent 2017 post from [Fable](https://blog.mavnn.co.uk/advent-2017-reading-from-the-firehose-with-fable/).
+
+
+---
+
+
 # Fable Simple Template
 
 This template can be used to generate a simple web app with [Fable](http://fable.io/).
